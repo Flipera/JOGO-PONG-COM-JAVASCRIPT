@@ -1,4 +1,4 @@
-<h1 align="center"> Joguinho do pong </h1>
+<h1 align="center"> JOGO CLÁSSICO PARTE 1: "PONG" COM JAVASCRIPT </h1>
 
 * Jogo clássico do Pong: Iniciando no Javascript
 
